@@ -9,6 +9,8 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/clock/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/gigasecond/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/gigasecond/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/grains/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/grains/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/hello-world/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/hello-world/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/minesweeper/src" isTestSource="false" />
@@ -22,6 +24,7 @@
       <excludeFolder url="file://$MODULE_DIR$/rust/anagram/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/clock/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/gigasecond/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/grains/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/hello-world/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/minesweeper/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/reverse-string/target" />

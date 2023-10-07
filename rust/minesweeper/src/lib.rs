@@ -21,7 +21,7 @@ pub fn annotate(minefield: &[&str]) -> Vec<String> {
                         0 => ' ',
                         n if n > 0u32 => std::char::from_digit(n, 10).unwrap(),
                         n => panic!("Invalid number of mines: {}", n),
-                    }
+                    },
                 })
                 .collect()
         })
